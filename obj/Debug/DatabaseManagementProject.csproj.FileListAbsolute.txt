@@ -1,0 +1,67 @@
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe.config
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.pdb
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csprojResolveAssemblyReference.cache
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form1.resources
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Properties.Resources.resources
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csproj.GenerateResource.Cache
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.exe
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.pdb
+c:\users\metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form2.resources
+C:\Users\Metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form3.resources
+C:\Users\Metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form4.resources
+C:\Users\Metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\bm-Latn-ML\DatabaseManagementProject.resources.dll
+C:\Users\Metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form4.bm-Latn-ML.resources
+C:\Users\Metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\bm-Latn-ML\DatabaseManagementProject.resources.dll
+C:\Users\Metin\documents\visual studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form5.resources
+C:\Users\Metin\Desktop\Yedeklemeler\Visual Studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe.config
+C:\Users\Metin\Desktop\Yedeklemeler\Visual Studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.exe
+C:\Users\Metin\Desktop\Yedeklemeler\Visual Studio 2013\Projects\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.pdb
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe.config
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.exe
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.pdb
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form1.resources
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form2.resources
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form3.resources
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form4.bm-Latn-ML.resources
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form4.resources
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form5.resources
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Properties.Resources.resources
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csproj.GenerateResource.Cache
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe
+C:\Users\TOSH\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.pdb
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe.config
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.exe
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.pdb
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.pdb
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\bin\Debug\bm-Latn-ML\DatabaseManagementProject.resources.dll
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form1.resources
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form2.resources
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form3.resources
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form4.resources
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form5.resources
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Properties.Resources.resources
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form4.bm-Latn-ML.resources
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csproj.GenerateResource.Cache
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\bm-Latn-ML\DatabaseManagementProject.resources.dll
+C:\Users\Metin\Desktop\Proje\DatabaseManagementProject\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form6.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe.config
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.exe
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.pdb
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Properties.Resources.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Form4.bm-Latn-ML.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.csproj.GenerateResource.Cache
+C:\Users\Metin\Desktop\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.exe
+C:\Users\Metin\Desktop\DatabaseManagementProject\bin\Debug\DatabaseManagementProject.pdb
+C:\Users\Metin\Desktop\DatabaseManagementProject\bin\Debug\bm-Latn-ML\DatabaseManagementProject.resources.dll
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\bm-Latn-ML\DatabaseManagementProject.resources.dll
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.GirisPaneli.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.YoneticiPaneli.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.BolumYoneticiPaneli.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.SekreterPaneli.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.EklemelerPaneli.resources
+C:\Users\Metin\Desktop\DatabaseManagementProject\obj\Debug\DatabaseManagementProject.Mail.resources
